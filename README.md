@@ -6,4 +6,4 @@ Files Description:
 2) Preliminary Questionaire Result.docx: Result of Preliminary Requirement Study Questionnaire.
 3) Preliminary Requirement Study Questionnaire.docx: Questionnaire form for Preliminary Requirement Study. 
 4) Validation Study Questionnaire.docx: Questionnaire form for Validation Study. 
-5) traceplot.html: Interactive 3D trace plot to show distance between instructor's avatar and participants over recording timestamp <b>(please download and open locally)</b>
+5) traceplot.html: Interactive 3D trace plot to show distance between instructor's avatar and participants over recording timestamp <b>https://sites.google.com/view/exploratoryvr-3d-trace-plot/home</b>
